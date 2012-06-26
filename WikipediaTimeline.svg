@@ -27,9 +27,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.92"
      inkscape:cx="575.576"
-     inkscape:cy="1105.0158"
+     inkscape:cy="1235.4506"
      inkscape:document-units="px"
-     inkscape:current-layer="layer27"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1885"
      inkscape:window-height="1060"
@@ -3336,8 +3336,7 @@
      style="display:inline"
      inkscape:label="SVG graphics"
      id="layer23"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        transform="matrix(1.3563054,0,0,1.3563054,304.24686,52.603066)"
        id="g4728"
@@ -6439,18 +6438,6 @@
        width="8.3239136"
        id="rect4181-1-9"
        style="fill:#cb4b16;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline;enable-background:new" />
-    <text
-       sodipodi:linespacing="125%"
-       id="text4119-3-3-3-8-0-0-1-4-7-9-7"
-       y="122.18891"
-       x="160"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       xml:space="preserve"><tspan
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
-         id="tspan4893-8-4-5-9-2-2-9-56-7-5-7"
-         y="122.18891"
-         x="160"
-         sodipodi:role="line">nombre d'articles</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path7326-56-6-1"
@@ -10204,6 +10191,18 @@
          y="14.18891"
          x="784"
          sodipodi:role="line">Critères d'admissibilité</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4119-3-3-3-8-0-0-1-4-7-9-7"
+       y="122.18891"
+       x="160"
+       style="enable-background:new;display:inline;font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
+         id="tspan4893-8-4-5-9-2-2-9-56-7-5-7"
+         y="122.18891"
+         x="160"
+         sodipodi:role="line">nombre d'articles</tspan></text>
   </g>
   <g
      transform="translate(0,161.81109)"
@@ -10312,7 +10311,7 @@
   </g>
   <g
      transform="translate(0,161.81109)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="Videos.alt"
      id="layer27"
      inkscape:groupmode="layer"
