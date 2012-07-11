@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.50752"
-     inkscape:cx="2396.7398"
-     inkscape:cy="477.67193"
+     inkscape:zoom="0.45194857"
+     inkscape:cx="1162.0486"
+     inkscape:cy="816.65026"
      inkscape:document-units="px"
      inkscape:current-layer="g7226"
      showgrid="true"
@@ -4093,10 +4093,11 @@
   </g>
   <g
      transform="translate(0,161.81109)"
-     style="opacity:0.52071007;display:inline"
+     style="opacity:0.52071007;display:none"
      inkscape:label="Page"
      id="layer3"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        y="-151.86842"
        x="0.14595376"
@@ -15379,12 +15380,12 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1543.4"
+       x="1551.4"
        y="1086.3889"
        id="text8096"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1543.4"
+         x="1551.4"
          y="1086.3889"
          id="tspan8098"
          style="font-size:1px;text-align:center;text-anchor:middle;fill:#586e75">The King of Pop vs. Wikipedia. Phoebe Ayers, June 29th, 2009. https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2009-06-29/News_and_notes</tspan></text>
@@ -16326,15 +16327,15 @@
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="740"
-       y="1008.1889"
+       x="720"
+       y="1018.1889"
        id="text8050-3"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="740"
-         y="1008.1889"
+         x="720"
+         y="1018.1889"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
-         id="tspan8052-6">+9 servers</tspan></text>
+         id="tspan8052-6">+39 servers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O Italic"
@@ -16383,30 +16384,6 @@
          y="1302.189"
          id="tspan8146-4"
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">Ars Technica &amp; Webby</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="900"
-       y="1008.1889"
-       id="text8034-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="900"
-         y="1008.1889"
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
-         id="tspan8036-4">Paris servers</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="880"
-       y="1018.1889"
-       id="text8030-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="880"
-         y="1018.1889"
-         id="tspan8032-8"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">cache</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b58900;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -16614,109 +16591,49 @@
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="936"
-       y="1054.189"
-       id="text8034-7-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="936"
-         y="1054.189"
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
-         id="tspan8036-4-8">Servers move</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="930"
-       y="1068.189"
-       id="text8034-7-7-5"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="930"
-         y="1068.189"
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
-         id="tspan8036-4-8-0">in Tampa</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1088"
-       y="1034.189"
+       x="1080"
+       y="1024.189"
        id="text8034-7-7-5-7-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1088"
-         y="1034.189"
+         x="1080"
+         y="1024.189"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
-         id="tspan8036-4-8-0-8-7">+132 servers</tspan></text>
+         id="tspan8036-4-8-0-8-7">+135 servers</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1216"
-       y="1008.1889"
+       x="1242"
+       y="1024.189"
        id="text8034-7-7-5-7-1-4-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1216"
-         y="1008.1889"
+         x="1242"
+         y="1024.189"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
          id="tspan8036-4-8-0-8-7-7-2">+56 servers</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1050"
-       y="1012.1889"
-       id="text8030-5-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1050"
-         y="1012.1889"
-         id="tspan8032-8-2"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">+44 in February</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1120"
-       y="1078.189"
-       id="text8030-5-4-7"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1120"
-         y="1078.189"
-         id="tspan8032-8-2-0"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">+68 in September</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1080"
-       y="1058.189"
-       id="text8030-5-4-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="1080"
-         y="1058.189"
-         id="tspan8032-8-2-4"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">+20 in July</tspan></text>
-    <text
-       xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1220"
-       y="1028.189"
+       x="1246"
+       y="1044.189"
        id="text8034-7-7-5-7-1-4-6-9"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1220"
-         y="1028.189"
+         x="1246"
+         y="1044.189"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
          id="tspan8036-4-8-0-8-7-7-2-8">&amp; network</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1228"
-       y="1046.189"
+       x="1254"
+       y="1062.189"
        id="text8034-7-7-5-7-1-4-6-9-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1228"
-         y="1046.189"
+         x="1254"
+         y="1062.189"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
          id="tspan8036-4-8-0-8-7-7-2-8-6">equipment</tspan></text>
     <text
@@ -16945,35 +16862,11 @@
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        x="2400"
        y="1058.189"
-       id="text8054-6"
+       id="text8054-4"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="2400"
          y="1058.189"
-         id="tspan8056-8"
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4">YASEO</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2410"
-       y="1088.189"
-       id="text8054-2"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2410"
-         y="1088.189"
-         id="tspan8056-88"
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4">KNAMS</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2420"
-       y="1118.189"
-       id="text8054-4"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2420"
-         y="1118.189"
          id="tspan8056-0"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4">ESAMS</tspan></text>
     <text
@@ -16990,52 +16883,28 @@
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4">PMTPA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2500"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="2440"
        y="1028.189"
        id="text8042-0"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2500"
+         x="2440"
          y="1028.189"
          id="tspan8044-1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">PowerMedium in Tampa</tspan></text>
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#586e75">Hostway (formerly PowerMedium) in Tampa</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2470"
+       x="2500"
        y="1058.189"
-       id="text8042-0-3"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2470"
-         y="1058.189"
-         id="tspan8044-1-0"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">Yahoo! in Seoul</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2520"
-       y="1118.189"
        id="text8042-0-1"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="2520"
-         y="1118.189"
+         x="2500"
+         y="1058.189"
          id="tspan8044-1-6"
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">EvoSwitch in Amsterdam</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="2510"
-       y="1088.189"
-       id="text8042-0-9"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="2510"
-         y="1088.189"
-         id="tspan8044-1-69"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">Kennisnet in Amsterdam</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -17144,6 +17013,146 @@
          y="998.1889"
          id="tspan8056-8-5-3"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4">SDTPA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="2440"
+       y="998.1889"
+       id="text8042-0-33"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="2440"
+         y="998.1889"
+         id="tspan8044-1-8"
+         style="font-size:12px;text-align:start;text-anchor:start;fill:#586e75">Equinix (formerley Switch and Data) in Tampa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="718"
+       y="996.1889"
+       id="text8030-5-4-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="718"
+         y="996.1889"
+         id="tspan8032-8-2-3"
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">+9 in January</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="776"
+       y="1080.1888"
+       id="text8030-5-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="776"
+         y="1080.1888"
+         id="tspan8032-8-8"
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">Squids in Paris</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="926"
+       y="1040.189"
+       id="text8050-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="926"
+         y="1040.189"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8052-6-3">+129 servers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="926"
+       y="1004.189"
+       id="text8042-0-3-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="926"
+         y="1004.189"
+         id="tspan8044-1-0-7"
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">move within Tampa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="1084"
+       y="1040.189"
+       id="text8034-7-7-5-7-1-4-6-9-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1084"
+         y="1040.189"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8036-4-8-0-8-7-7-2-8-9">&amp; network</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       x="1092"
+       y="1058.189"
+       id="text8034-7-7-5-7-1-4-6-9-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1092"
+         y="1058.189"
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8036-4-8-0-8-7-7-2-8-6-0">equipment</tspan></text>
+    <g
+       id="g6552"
+       transform="translate(70,3.9999452)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text8042-0-3"
+         y="1080.189"
+         x="877.2005"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+         xml:space="preserve"><tspan
+           style="font-size:1px;text-align:center;text-anchor:middle;fill:#586e75"
+           id="tspan8044-1-0"
+           y="1080.189"
+           x="877.2005"
+           sodipodi:role="line">Yahoo! in Seoul</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8042-0-3-4-2"
+         y="1078.189"
+         x="890"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+         xml:space="preserve"><tspan
+           style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
+           id="tspan8044-1-0-7-7"
+           y="1078.189"
+           x="890"
+           sodipodi:role="line">YASEO</tspan></text>
+    </g>
+    <g
+       id="g6558"
+       transform="translate(-36,-4.000055)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text8042-0-9"
+         y="1080.189"
+         x="924.99963"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+         xml:space="preserve"><tspan
+           style="font-size:1px;text-align:center;text-anchor:middle;fill:#586e75"
+           id="tspan8044-1-69"
+           y="1080.189"
+           x="924.99963"
+           sodipodi:role="line">Kennisnet in Amsterdam</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text8042-0-3-4-3"
+         y="1078.189"
+         x="940"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+         xml:space="preserve"><tspan
+           style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
+           id="tspan8044-1-0-7-9"
+           y="1078.189"
+           x="940"
+           sodipodi:role="line">KNAMS</tspan></text>
+    </g>
   </g>
   <g
      transform="translate(0,161.81109)"
