@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.9546301"
-     inkscape:cx="1773.2947"
-     inkscape:cy="452.84242"
+     inkscape:cx="1044.2026"
+     inkscape:cy="997.55602"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer24"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -4111,8 +4111,7 @@
      style="display:inline"
      inkscape:label="Bitmap graphics"
      id="layer24"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        transform="matrix(0.00940179,0,0,0.00940179,1128.2111,588.76395)"
        id="g7181"
@@ -4131,25 +4130,6 @@
          height="100"
          x="1030"
          y="488.18896" />
-    </g>
-    <g
-       transform="translate(0,-96)"
-       id="g7185"
-       style="display:inline">
-      <image
-         y="508.18942"
-         x="1180"
-         id="image7047"
-         xlink:href="file:///home/guillom/docs/wikimedia/volunteering/10years/images/POTY2006.jpg"
-         height="84.707001"
-         width="129.99931" />
-      <rect
-         style="opacity:0.5;fill:#073642;fill-opacity:1;fill-rule:nonzero;stroke:none;display:inline"
-         id="rect7136-3"
-         width="130"
-         height="84.707001"
-         x="1180"
-         y="508.18896" />
     </g>
   </g>
   <g
@@ -13793,13 +13773,13 @@
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b58900;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1230"
-       y="392.1889"
+       x="1226"
+       y="436.1889"
        id="text7498"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1230"
-         y="392.1889"
+         x="1226"
+         y="436.1889"
          id="tspan7500"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#dc322f">POTY</tspan></text>
     <text
@@ -16890,13 +16870,13 @@
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       x="1250"
-       y="406.1889"
+       x="1246"
+       y="450.1889"
        id="text7428-6"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="1250"
-         y="406.1889"
+         x="1246"
+         y="450.1889"
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
          id="tspan7430-2">Picture of the year</tspan></text>
     <text
