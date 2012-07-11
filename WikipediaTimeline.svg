@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.8636254"
-     inkscape:cx="1873.8886"
-     inkscape:cy="436.02879"
+     inkscape:cx="2002.8294"
+     inkscape:cy="951.15377"
      inkscape:document-units="px"
      inkscape:current-layer="layer20"
      showgrid="true"
@@ -15196,7 +15196,7 @@
          id="tspan8012"
          y="962.1889"
          x="2214"
-         sodipodi:role="line">HipHop?</tspan></text>
+         sodipodi:role="line">HipHop</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8014"
@@ -16697,7 +16697,7 @@
          x="2036"
          sodipodi:role="line">SOPA/PIPA blackout</tspan></text>
     <g
-       transform="translate(286,-86.000055)"
+       transform="translate(252,-100.00005)"
        id="g7544-8"
        style="display:inline;enable-background:new">
       <text
@@ -16711,7 +16711,7 @@
            x="1918"
            y="528.18896"
            id="tspan7548-0"
-           style="font-size:18px;text-align:center;text-anchor:middle;fill:#dc322f">Video?</tspan></text>
+           style="font-size:18px;text-align:center;text-anchor:middle;fill:#dc322f">Video</tspan></text>
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -16908,27 +16908,27 @@
     <text
        sodipodi:linespacing="125%"
        id="text8010-8"
-       y="884.1889"
-       x="2206"
+       y="878.1889"
+       x="2240"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b58900;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle"
          id="tspan8012-6"
-         y="884.1889"
-         x="2206"
-         sodipodi:role="line">Lua?</tspan></text>
+         y="878.1889"
+         x="2240"
+         sodipodi:role="line">Lua</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8010-5"
-       y="922.1889"
-       x="2212"
+       y="928.1889"
+       x="2200"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b58900;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle"
          id="tspan8012-0"
-         y="922.1889"
-         x="2212"
-         sodipodi:role="line">OAuth?</tspan></text>
+         y="928.1889"
+         x="2200"
+         sodipodi:role="line">OAuth</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8010-5-9"
@@ -17081,6 +17081,71 @@
          y="1290.189"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#d33682"
          id="tspan6417-1-7-6-8-0-2">“It is unclear, of course,</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8026-7"
+       y="1008.1889"
+       x="2170"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8028-78"
+         y="1008.1889"
+         x="2170"
+         sodipodi:role="line">EQIAD transition</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8026-7-5"
+       y="1046.189"
+       x="2190"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8028-78-9"
+         y="1046.189"
+         x="2190"
+         sodipodi:role="line">West Coast caching center</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8026-7-5-3"
+       y="1084.189"
+       x="2170"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#6c71c4"
+         id="tspan8028-78-9-1"
+         y="1084.189"
+         x="2170"
+         sodipodi:role="line">Tool labs</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8010-5-2"
+       y="908.1889"
+       x="2200"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#b58900;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle"
+         id="tspan8012-0-5"
+         y="908.1889"
+         x="2200"
+         sodipodi:role="line">Notifications</tspan></text>
+    <g
+       transform="translate(286.00005,-56.000055)"
+       id="g7544-8-9"
+       style="display:inline;enable-background:new">
+      <text
+         xml:space="preserve"
+         style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#dc322f;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+         x="1918"
+         y="528.18896"
+         id="text7546-8-6"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           x="1918"
+           y="528.18896"
+           id="tspan7548-0-9"
+           style="font-size:18px;text-align:center;text-anchor:middle;fill:#dc322f">Curation tools</tspan></text>
+    </g>
   </g>
   <g
      sodipodi:insensitive="true"
@@ -18683,11 +18748,11 @@
        style="fill:none;stroke:#ff0000;stroke-width:2.20970702;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
        y="398.1889"
-       x="2146.6667"
-       height="79.999886"
-       width="113.3332"
+       x="2140"
+       height="100.00002"
+       width="141.66672"
        id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-0"
-       style="fill:none;stroke:#ff0000;stroke-width:1.71795809;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
+       style="fill:none;stroke:#ff0000;stroke-width:2.14745092;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
        y="-729.8111"
        x="120"
