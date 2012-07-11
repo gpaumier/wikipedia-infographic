@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8382614"
-     inkscape:cx="2003.6958"
-     inkscape:cy="1588.7414"
+     inkscape:zoom="2.185829"
+     inkscape:cx="2040.6187"
+     inkscape:cy="1665.2236"
      inkscape:document-units="px"
      inkscape:current-layer="layer20"
      showgrid="true"
@@ -18633,10 +18633,10 @@
        x="1740"
        y="833.48303" />
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:1.9263792;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       style="fill:none;stroke:#ff0000;stroke-width:2.795084;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
        id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-20"
-       width="189.99994"
-       height="60.000031"
+       width="199.99994"
+       height="120.00001"
        x="1830"
        y="1088.189" />
     <rect
@@ -18737,6 +18737,48 @@
        height="119.99992"
        x="1742"
        y="142.1889" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.49999833;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1"
+       width="159.99994"
+       height="119.99992"
+       x="1970"
+       y="-221.8111" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.49999833;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1-5"
+       width="159.99994"
+       height="119.99992"
+       x="1960"
+       y="-101.81109" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.57693934;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3"
+       width="169.99994"
+       height="119.99992"
+       x="1970"
+       y="378.1889" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.57693934;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3-0"
+       width="169.99994"
+       height="119.99992"
+       x="2000"
+       y="618.1889" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.72852516;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-71-7"
+       width="180"
+       height="127.05879"
+       x="1970"
+       y="855.83588" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:2.49999833;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-171-3"
+       width="159.99994"
+       height="119.99992"
+       x="1970"
+       y="1098.189" />
   </g>
   <g
      sodipodi:insensitive="true"
@@ -19967,24 +20009,12 @@
      ns1:timeout-enable="false"
      ns1:timeout-ms="5000.0"
      ns1:transition-zoom-percent="0.0"
-     ns1:title="2012"
+     ns1:title="201..."
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1500.0"
-     ns1:sequence="95"
+     ns1:sequence="101"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-75" />
-  <ns1:frame
-     id="frame91"
-     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-11"
-     ns1:sequence="96"
-     ns1:transition-duration-ms="1000.0"
-     ns1:hide="true"
-     ns1:clip="false"
-     ns1:title="Wikimedia in 2012"
-     ns1:transition-zoom-percent="0.0"
-     ns1:timeout-ms="5000.0"
-     ns1:timeout-enable="false"
-     ns1:transition-profile="accelerate-decelerate" />
   <ns1:frame
      id="frame92"
      ns1:transition-profile="accelerate-decelerate"
@@ -20000,35 +20030,23 @@
   <ns1:frame
      id="frame93"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-4"
-     ns1:sequence="97"
+     ns1:sequence="102"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
      ns1:clip="false"
-     ns1:title="MediaWiki in 2012"
+     ns1:title="MediaWiki in 201..."
      ns1:transition-zoom-percent="0.0"
      ns1:timeout-ms="5000.0"
      ns1:timeout-enable="false"
      ns1:transition-profile="accelerate-decelerate" />
   <ns1:frame
-     id="frame94"
-     ns1:transition-profile="accelerate-decelerate"
-     ns1:timeout-enable="false"
-     ns1:timeout-ms="5000.0"
-     ns1:transition-zoom-percent="0.0"
-     ns1:title="Sister projects in 2012"
-     ns1:clip="false"
-     ns1:hide="true"
-     ns1:transition-duration-ms="1000.0"
-     ns1:sequence="98"
-     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-17" />
-  <ns1:frame
      id="frame95"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-0"
-     ns1:sequence="99"
+     ns1:sequence="103"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
      ns1:clip="false"
-     ns1:title="Commons in 2012"
+     ns1:title="Commons in 201..."
      ns1:transition-zoom-percent="0.0"
      ns1:timeout-ms="5000.0"
      ns1:timeout-enable="false"
@@ -20039,16 +20057,16 @@
      ns1:timeout-enable="false"
      ns1:timeout-ms="5000.0"
      ns1:transition-zoom-percent="0.0"
-     ns1:title="Wikipedians in 2012"
+     ns1:title="Wikipedians in 201..."
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1500.0"
-     ns1:sequence="100"
+     ns1:sequence="104"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-5" />
   <ns1:frame
      id="frame97"
      ns1:refid="rect10892-0"
-     ns1:sequence="101"
+     ns1:sequence="105"
      ns1:transition-duration-ms="3000"
      ns1:hide="true"
      ns1:clip="false"
@@ -20162,4 +20180,76 @@
      ns1:timeout-ms="5000.0"
      ns1:timeout-enable="false"
      ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1"
+     ns1:sequence="95"
+     id="frame100i"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="false"
+     ns1:title="2012"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Wikipedia in 2012"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:transition-duration-ms="1000.0"
+     id="frame101p"
+     ns1:sequence="96"
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1-5" />
+  <ns1:frame
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3"
+     ns1:sequence="97"
+     id="frame102"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="false"
+     ns1:title="Commons in 2012"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Sister projects in 2012"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:transition-duration-ms="1000.0"
+     id="frame103"
+     ns1:sequence="98"
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3-0" />
+  <ns1:frame
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-71-7"
+     ns1:sequence="99"
+     id="frame104"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="false"
+     ns1:title="MediaWiki in 2012"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Wikimedia in 2012"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:transition-duration-ms="1000.0"
+     id="frame105"
+     ns1:sequence="100"
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-171-3" />
 </svg>
