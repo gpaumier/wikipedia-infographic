@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9013714"
-     inkscape:cx="328.82619"
-     inkscape:cy="1350.0991"
+     inkscape:cx="867.2186"
+     inkscape:cy="1462.6327"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="g7226"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -3990,16 +3990,16 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      id="layer23"
      inkscape:label="SVG graphics"
      style="display:inline"
-     transform="translate(0,161.81109)">
+     transform="translate(0,161.81109)"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        id="g4728"
-       transform="matrix(1.3563054,0,0,1.3563054,359.50244,50.669399)">
+       transform="matrix(1.3563054,0,0,1.3563054,373.50244,50.669399)">
       <path
          id="path2846"
          style="fill:#93a1a1;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -4024,7 +4024,7 @@
     <g
        style="display:inline"
        id="g5595"
-       transform="matrix(0.44657698,0,0,0.44657698,589.81032,156.94451)">
+       transform="matrix(0.44657698,0,0,0.44657698,639.81032,172.94451)">
       <g
          style="fill:#93a1a1;stroke:none"
          id="g7"
@@ -13066,12 +13066,12 @@
          style="font-size:20px;text-align:center;text-anchor:middle;fill:#93a1a1">Guillaume Paumier</tspan></text>
   </g>
   <g
-     sodipodi:insensitive="true"
      transform="translate(0,161.81109)"
      style="display:inline"
      inkscape:label="Text.en"
      id="g7226"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        sodipodi:linespacing="125%"
        id="text7228"
@@ -13231,14 +13231,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text7288"
-       y="-61.811089"
-       x="730"
+       y="-53.811089"
+       x="738"
        style="font-size:64px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O Italic"
        xml:space="preserve"><tspan
          style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#cb4b16;-inkscape-font-specification:Linux Libertine O"
          id="tspan7290"
-         y="-61.811089"
-         x="730"
+         y="-53.811089"
+         x="738"
          sodipodi:role="line">ArbCom</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -15429,26 +15429,26 @@
     <text
        sodipodi:linespacing="125%"
        id="text8116"
-       y="8.1889095"
-       x="800"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       y="170.1889"
+       x="770"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
-         style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#cb4b16;-inkscape-font-specification:Linux Libertine O"
+         style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#268bd2;-inkscape-font-specification:Linux Libertine O"
          id="tspan8118"
-         y="8.1889095"
-         x="800"
+         y="170.1889"
+         x="770"
          sodipodi:role="line">deletionists</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8120"
-       y="-5.81109"
-       x="780"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       y="154.1889"
+       x="750"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
-         style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#cb4b16;-inkscape-font-specification:Linux Libertine O"
+         style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#268bd2;-inkscape-font-specification:Linux Libertine O"
          id="tspan8122"
-         y="-5.81109"
-         x="780"
+         y="154.1889"
+         x="750"
          sodipodi:role="line">Inclusionists &amp;</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -15477,25 +15477,25 @@
     <text
        sodipodi:linespacing="125%"
        id="text8132"
-       y="152.1889"
+       y="196.1889"
        x="741.75"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          id="tspan8134"
          style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#268bd2;-inkscape-font-specification:Linux Libertine O"
-         y="152.1889"
+         y="196.1889"
          x="744"
          sodipodi:role="line">Barnstars </tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8136"
-       y="168.1889"
+       y="212.1889"
        x="750"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          id="tspan8138"
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#268bd2"
-         y="168.1889"
+         y="212.1889"
          x="750"
          sodipodi:role="line">&amp; laurels</tspan></text>
     <text
@@ -15989,14 +15989,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text8326"
-       y="20.188854"
-       x="802"
+       y="12.18891"
+       x="750"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:12px;font-style:normal;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O"
          id="tspan8328"
-         y="20.188854"
-         x="802"
+         y="12.18891"
+         x="750"
          sodipodi:role="line">notability guidelines</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -16328,26 +16328,26 @@
     <text
        sodipodi:linespacing="125%"
        id="text7288-1"
-       y="-31.81109"
-       x="750"
+       y="-19.81109"
+       x="760"
        style="font-size:64px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O Italic"
        xml:space="preserve"><tspan
          style="font-size:18px;font-style:normal;text-align:center;text-anchor:middle;fill:#cb4b16;-inkscape-font-specification:Linux Libertine O"
          id="tspan7290-7"
-         y="-31.81109"
-         x="750"
+         y="-19.81109"
+         x="760"
          sodipodi:role="line">DYK</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text8326-4"
-       y="-21.81109"
-       x="778"
+       y="-9.8110905"
+       x="788"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:12px;font-style:normal;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O"
          id="tspan8328-6"
-         y="-21.81109"
-         x="778"
+         y="-9.8110905"
+         x="788"
          sodipodi:role="line">did you know?</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -16837,14 +16837,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text7316-9-9"
-       y="-87.811089"
-       x="720"
+       y="-81.811089"
+       x="730"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#cb4b16"
          id="tspan7318-0-5"
-         y="-87.811089"
-         x="720"
+         y="-81.811089"
+         x="730"
          sodipodi:role="line">Infoboxes</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -16897,14 +16897,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text8326-4-6"
-       y="-51.811089"
-       x="758"
+       y="-43.811089"
+       x="766"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:12px;font-style:normal;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O"
          id="tspan8328-6-6"
-         y="-51.811089"
-         x="758"
+         y="-43.811089"
+         x="766"
          sodipodi:role="line">Arbitration Committee</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -18108,7 +18108,8 @@
      id="layer20"
      inkscape:label="Presentation scripts"
      style="display:inline"
-     transform="translate(0,161.81109)">
+     transform="translate(0,161.81109)"
+     sodipodi:insensitive="true">
     <rect
        y="-252.78613"
        x="0"
