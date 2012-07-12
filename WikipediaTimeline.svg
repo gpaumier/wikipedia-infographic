@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32944554"
-     inkscape:cx="896.63624"
-     inkscape:cy="821.23077"
+     inkscape:zoom="1.9013714"
+     inkscape:cx="364.32459"
+     inkscape:cy="1449.8257"
      inkscape:document-units="px"
-     inkscape:current-layer="layer20"
+     inkscape:current-layer="g7226"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -13069,8 +13069,7 @@
      id="g7226"
      inkscape:label="Text.en"
      style="display:inline"
-     transform="translate(0,161.81109)"
-     sodipodi:insensitive="true">
+     transform="translate(0,161.81109)">
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -13346,7 +13345,7 @@
          x="300"
          y="-59.811035"
          id="tspan7330"
-         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O Italic">NPOV</tspan></text>
+         style="font-size:12px;font-style:normal;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O">NPOV</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -13430,7 +13429,7 @@
          x="300"
          y="-89.811035"
          id="tspan7358"
-         style="font-size:12px;font-style:italic;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O Italic">GFDL</tspan></text>
+         style="font-size:12px;font-style:normal;text-align:center;text-anchor:middle;fill:#586e75;-inkscape-font-specification:Linux Libertine O">GFDL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -16287,7 +16286,7 @@
          x="620"
          y="8.1889095"
          id="tspan7286-1"
-         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75">de:Portal:Recht</tspan></text>
+         style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75;font-style:italic;-inkscape-font-specification:Linux Libertine O Italic">de:Portal:Recht</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#6c71c4;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
@@ -18107,7 +18106,8 @@
      style="display:inline"
      inkscape:label="Presentation scripts"
      id="layer20"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:2.65409756;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect10892"
