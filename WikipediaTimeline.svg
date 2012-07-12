@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32944554"
-     inkscape:cx="1017.7221"
+     inkscape:cx="896.63624"
      inkscape:cy="821.23077"
      inkscape:document-units="px"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="layer20"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -18104,18 +18104,17 @@
      sodipodi:insensitive="true" />
   <g
      transform="translate(0,161.81109)"
-     style="display:none"
+     style="display:inline"
      inkscape:label="Presentation scripts"
      id="layer20"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
-       style="fill:none;stroke:#ff0000;stroke-width:2.48850369;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#ff0000;stroke-width:2.65409756;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect10892"
-       width="2179.813"
-       height="1650"
+       width="2350"
+       height="1740.9751"
        x="0"
-       y="-161.8111" />
+       y="-252.78613" />
     <rect
        style="fill:none;stroke:#ff0000;stroke-width:2.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect98095"
