@@ -13070,8 +13070,7 @@
      style="display:inline"
      inkscape:label="Text.en"
      id="g7226"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        sodipodi:linespacing="125%"
        id="text7228"
@@ -14056,26 +14055,26 @@
     <text
        sodipodi:linespacing="125%"
        id="text7614"
-       y="1120.189"
-       x="910"
+       y="1126.189"
+       x="904"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#859900;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#859900"
          id="tspan7616"
-         y="1120.189"
-         x="910"
-         sodipodi:role="line">First fundraiser</tspan></text>
+         y="1126.189"
+         x="904"
+         sodipodi:role="line">First formal</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7618"
-       y="1138.189"
-       x="894"
+       y="1152.189"
+       x="980"
        style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#586e75;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:12px;text-align:center;text-anchor:middle;fill:#586e75"
          id="tspan7620"
-         y="1138.189"
-         x="894"
+         y="1152.189"
+         x="980"
          sodipodi:role="line">$94,000</tspan></text>
     <text
        sodipodi:linespacing="125%"
@@ -17147,6 +17146,18 @@
            id="tspan7548-0-9"
            style="font-size:18px;text-align:center;text-anchor:middle;fill:#dc322f">Curation tools</tspan></text>
     </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7614-5"
+       y="1144.189"
+       x="912"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#859900;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#859900"
+         id="tspan7616-0"
+         y="1144.189"
+         x="912"
+         sodipodi:role="line">fundraiser</tspan></text>
   </g>
   <g
      sodipodi:insensitive="true"
