@@ -25,11 +25,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1730334"
-     inkscape:cx="1984.7183"
-     inkscape:cy="695.47268"
+     inkscape:zoom="2.6843296"
+     inkscape:cx="1195.0709"
+     inkscape:cy="1542.3244"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="g7226"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -13070,8 +13070,7 @@
      style="display:inline"
      inkscape:label="Text.en"
      id="g7226"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <text
        sodipodi:linespacing="125%"
        id="text7228"
@@ -17159,6 +17158,18 @@
          y="1144.189"
          x="912"
          sodipodi:role="line">fundraiser</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text7260-1-4"
+       y="-61.811089"
+       x="1140"
+       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:18px;text-align:center;text-anchor:middle;fill:#cb4b16"
+         id="tspan7262-4-9"
+         y="-61.811089"
+         x="1140"
+         sodipodi:role="line">Rules</tspan></text>
   </g>
   <g
      sodipodi:insensitive="true"
