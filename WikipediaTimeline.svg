@@ -26,10 +26,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.0773873"
-     inkscape:cx="1577.1977"
-     inkscape:cy="1136.5101"
+     inkscape:cx="1774.5116"
+     inkscape:cy="1322.1443"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="g7226"
      showgrid="true"
      inkscape:window-width="1566"
      inkscape:window-height="880"
@@ -8911,7 +8911,8 @@
     </g>
     <g
        id="g7450"
-       style="display:inline;enable-background:new">
+       style="display:inline;enable-background:new"
+       transform="translate(-10,220)">
       <g
          transform="matrix(0.17423663,0,0,0.17423663,1810.0001,-71.811125)"
          id="g236"
@@ -13305,18 +13306,6 @@
          sodipodi:role="line">new interface</tspan></text>
     <text
        sodipodi:linespacing="125%"
-       id="text7312"
-       y="-79.811035"
-       x="1852"
-       style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#cb4b16;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
-       xml:space="preserve"><tspan
-         style="font-size:18px;text-align:center;text-anchor:middle;fill:#cb4b16"
-         id="tspan7314"
-         y="-79.811035"
-         x="1852"
-         sodipodi:role="line">10th anniversary</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
        id="text7316"
        y="-9.8110428"
        x="1900"
@@ -13642,13 +13631,13 @@
     <text
        sodipodi:linespacing="125%"
        id="text7440"
-       y="190.18896"
+       y="248.18896"
        x="1820"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#268bd2"
          id="tspan7442"
-         y="190.18896"
+         y="248.18896"
          x="1820"
          sodipodi:role="line">Recruitment efforts</tspan></text>
     <text
@@ -16523,26 +16512,26 @@
     <text
        sodipodi:linespacing="125%"
        id="text7440-0"
-       y="230.1889"
-       x="1866"
+       y="164.1889"
+       x="1928"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#268bd2"
          id="tspan7442-6"
-         y="230.1889"
-         x="1866"
+         y="164.1889"
+         x="1928"
          sodipodi:role="line">10th anniversary</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text7440-08"
-       y="248.1889"
-       x="1860"
+       y="184.1889"
+       x="1918"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#268bd2;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
          style="font-size:18px;text-align:center;text-anchor:middle;fill:#268bd2"
          id="tspan7442-4"
-         y="248.1889"
-         x="1860"
+         y="184.1889"
+         x="1918"
          sodipodi:role="line">celebrations</tspan></text>
     <text
        sodipodi:linespacing="125%"
