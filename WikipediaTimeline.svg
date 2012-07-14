@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.41750954"
-     inkscape:cx="1148.3239"
-     inkscape:cy="859.70771"
+     inkscape:zoom="0.30863416"
+     inkscape:cx="1180.9299"
+     inkscape:cy="1103.8079"
      inkscape:document-units="px"
      inkscape:current-layer="g7226"
      showgrid="true"
@@ -7219,7 +7219,7 @@
     <g
        style="display:inline;enable-background:new"
        id="g6303-8"
-       transform="matrix(3,0,0,3,190,-891.3029)">
+       transform="matrix(3,0,0,3,220,-891.3029)">
       <g
          transform="matrix(1.4555488,0,0,1.4555488,-11.109568,-399.09902)"
          id="g7662-6">
@@ -16065,14 +16065,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text8350"
-       y="-267.8111"
-       x="690"
+       y="-271.8111"
+       x="609.91846"
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
        xml:space="preserve"><tspan
-         style="font-size:20px;text-align:center;text-anchor:middle;fill:#93a1a1"
+         style="font-size:20px;font-weight:normal;text-align:center;text-anchor:middle;fill:#93a1a1;-inkscape-font-specification:Linux Libertine O"
          id="tspan8352"
-         y="-267.8111"
-         x="690"
+         y="-271.8111"
+         x="609.91846"
          sodipodi:role="line">Guillaume Paumier</tspan></text>
     <text
        xml:space="preserve"
@@ -17219,6 +17219,18 @@
          y="756.7984"
          id="tspan4893-8-4-5-9-2-2-9-56-7-8-9-0-6-2-6-9-2-1"
          style="font-size:12.1057291px;text-align:center;text-anchor:middle;fill:#586e75">271</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text8350-9"
+       y="-241.8111"
+       x="650"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#93a1a1;fill-opacity:1;stroke:none;display:inline;enable-background:new;font-family:Linux Libertine O;-inkscape-font-specification:Linux Libertine O"
+       xml:space="preserve"><tspan
+         style="font-size:20px;text-align:center;text-anchor:middle;fill:#93a1a1"
+         id="tspan8352-8"
+         y="-241.8111"
+         x="650"
+         sodipodi:role="line">[[user:guillom]] · @gpaumier</tspan></text>
   </g>
   <g
      sodipodi:insensitive="true"
@@ -18611,12 +18623,12 @@
        id="rect98095-9-5-0-98-5-2-0-3-5"
        style="fill:none;stroke:#ff0000;stroke-width:2.55208325;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
-       y="155.68889"
-       x="1220"
-       height="122.5"
-       width="229.99994"
+       y="118.18891"
+       x="1200"
+       height="159.99997"
+       width="249.99994"
        id="rect98095-9-5-0-98-5-2-0-3-5-6"
-       style="fill:none;stroke:#ff0000;stroke-width:3.02845621;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
+       style="fill:none;stroke:#ff0000;stroke-width:3.60843849;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
        y="218.1889"
        x="1130"
@@ -18738,7 +18750,7 @@
        style="fill:none;stroke:#ff0000;stroke-width:2.49999833;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
        y="18.18891"
-       x="1810"
+       x="1934"
        height="119.99992"
        width="199.99992"
        id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38"
@@ -18821,12 +18833,12 @@
        id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-0"
        style="fill:none;stroke:#ff0000;stroke-width:2.14745092;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
     <rect
-       y="-729.8111"
-       x="120"
-       height="492"
-       width="680"
+       y="-744.28168"
+       x="100"
+       height="532.47058"
+       width="735.935"
        id="rect19097"
-       style="fill:none;stroke:#ff0000;stroke-width:2.64360285;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;enable-background:new" />
+       style="fill:none;stroke:#ff0000;stroke-width:2.86105847;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;enable-background:new" />
     <rect
        y="978.1889"
        x="540"
@@ -18918,6 +18930,27 @@
        width="200.00002"
        id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-4-9"
        style="fill:none;stroke:#ff0000;stroke-width:3.12499952;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
+    <rect
+       y="492.18896"
+       x="1938"
+       height="119.99992"
+       width="199.99992"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-4"
+       style="fill:none;stroke:#ff0000;stroke-width:2.79508305;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
+    <rect
+       y="262.1889"
+       x="1938"
+       height="119.99992"
+       width="199.99992"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-1"
+       style="fill:none;stroke:#ff0000;stroke-width:2.79508305;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
+    <rect
+       y="-31.810806"
+       x="1000"
+       height="689.99957"
+       width="1149.9995"
+       id="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-1-2"
+       style="fill:none;stroke:#ff0000;stroke-width:5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline;enable-background:new" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -20060,11 +20093,11 @@
      id="frame83" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38"
-     ns1:sequence="86"
+     ns1:sequence="95"
      ns1:transition-duration-ms="1000"
      ns1:hide="true"
      ns1:clip="false"
-     ns1:title="Wikipedia in numbers in 2011"
+     ns1:title="Wikipedia in numbers in 2012"
      ns1:transition-zoom-percent="0"
      ns1:timeout-ms="5000"
      ns1:timeout-enable="false"
@@ -20079,12 +20112,12 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1000"
-     ns1:sequence="88"
+     ns1:sequence="87"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93"
      id="frame85" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-2"
-     ns1:sequence="89"
+     ns1:sequence="88"
      ns1:transition-duration-ms="2500"
      ns1:hide="true"
      ns1:clip="false"
@@ -20103,12 +20136,12 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1000"
-     ns1:sequence="90"
+     ns1:sequence="89"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-71"
      id="frame87" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-20"
-     ns1:sequence="92"
+     ns1:sequence="91"
      ns1:transition-duration-ms="2000"
      ns1:hide="true"
      ns1:clip="false"
@@ -20127,12 +20160,12 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1000"
-     ns1:sequence="93"
+     ns1:sequence="92"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-21"
      id="frame89" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-75"
-     ns1:sequence="100"
+     ns1:sequence="103"
      ns1:transition-duration-ms="1500.0"
      ns1:hide="true"
      ns1:clip="false"
@@ -20144,7 +20177,7 @@
      id="frame90" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-171"
-     ns1:sequence="91"
+     ns1:sequence="90"
      ns1:transition-duration-ms="1000"
      ns1:hide="true"
      ns1:clip="false"
@@ -20163,7 +20196,7 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
-     ns1:sequence="102"
+     ns1:sequence="105"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-4"
      id="frame93" />
   <ns1:frame
@@ -20175,12 +20208,12 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
-     ns1:sequence="103"
+     ns1:sequence="106"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-0"
      id="frame95" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-5"
-     ns1:sequence="104"
+     ns1:sequence="107"
      ns1:transition-duration-ms="1500.0"
      ns1:hide="true"
      ns1:clip="false"
@@ -20199,7 +20232,7 @@
      ns1:clip="false"
      ns1:hide="true"
      ns1:transition-duration-ms="3000"
-     ns1:sequence="105"
+     ns1:sequence="108"
      ns1:refid="rect10892-0"
      id="frame97" />
   <ns1:frame
@@ -20305,7 +20338,7 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
      id="frame101N"
-     ns1:sequence="87"
+     ns1:sequence="86"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6" />
   <ns1:frame
      ns1:transition-profile="accelerate-decelerate"
@@ -20317,11 +20350,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
      id="frame100i"
-     ns1:sequence="94"
+     ns1:sequence="93"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-1-1-5"
-     ns1:sequence="95"
+     ns1:sequence="94"
      id="frame101p"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
@@ -20339,13 +20372,13 @@
      ns1:title="Commons in 2012"
      ns1:clip="false"
      ns1:hide="true"
-     ns1:transition-duration-ms="1000.0"
+     ns1:transition-duration-ms="3000.0"
      id="frame102"
-     ns1:sequence="96"
+     ns1:sequence="98"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-93-3-0"
-     ns1:sequence="97"
+     ns1:sequence="100"
      id="frame103"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
@@ -20365,11 +20398,11 @@
      ns1:hide="true"
      ns1:transition-duration-ms="1000.0"
      id="frame104"
-     ns1:sequence="98"
+     ns1:sequence="101"
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-71-7" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-171-3"
-     ns1:sequence="99"
+     ns1:sequence="102"
      id="frame105"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
@@ -20381,7 +20414,7 @@
      ns1:transition-profile="accelerate-decelerate" />
   <ns1:frame
      ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-4-9"
-     ns1:sequence="101"
+     ns1:sequence="104"
      id="frame106"
      ns1:transition-duration-ms="1000.0"
      ns1:hide="true"
@@ -20391,4 +20424,40 @@
      ns1:timeout-ms="5000.0"
      ns1:timeout-enable="false"
      ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Commons in numbers in 2012"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:transition-duration-ms="1000.0"
+     id="frame106h"
+     ns1:sequence="99"
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-4" />
+  <ns1:frame
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-1"
+     ns1:sequence="96"
+     id="frame107"
+     ns1:transition-duration-ms="1000.0"
+     ns1:hide="true"
+     ns1:clip="false"
+     ns1:title="Wikipedians in 2012"
+     ns1:transition-zoom-percent="0.0"
+     ns1:timeout-ms="5000.0"
+     ns1:timeout-enable="false"
+     ns1:transition-profile="accelerate-decelerate" />
+  <ns1:frame
+     ns1:transition-profile="accelerate-decelerate"
+     ns1:timeout-enable="false"
+     ns1:timeout-ms="5000.0"
+     ns1:transition-zoom-percent="0.0"
+     ns1:title="Wikipedians in 2012-2006 comparison"
+     ns1:clip="false"
+     ns1:hide="true"
+     ns1:transition-duration-ms="2000.0"
+     id="frame108"
+     ns1:sequence="97"
+     ns1:refid="rect98095-9-5-0-98-5-2-0-3-3-9-9-9-38-6-1-2" />
 </svg>
